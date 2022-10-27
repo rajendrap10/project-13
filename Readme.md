@@ -36,12 +36,7 @@ I would like to say Thankyou my instructor `Hitesh Choudhary` for the guiding, m
 
 <img src = "assets/project-screen-3.png" height="300" align = "center" > 
 
-### 
----
-
-<img src = "assets/project-screen-4.png" height="300" align = "center" > 
-
 ### Mobile Screen
 ---
 
-<img src = "assets/project-screen-5.png" height="700" align = "center" > 
+<img src = "assets/project-screen-4.png" height="300" align = "center" > 
